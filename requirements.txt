@@ -1,0 +1,6 @@
+pandas
+gensim
+chainer
+sklearn
+numpy
+-e git+https://github.com/nishiba/cnn_sc.git#egg=cnn_sc
